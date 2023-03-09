@@ -34,8 +34,8 @@ align-items: center;
 }
 
 .wrap>a{
-  width: 500px;
-  height: 80px;
+  width: 100px;
+  height: 10px;
   font-size: 18px;
   font-weight: bold;
   background-color: white;
